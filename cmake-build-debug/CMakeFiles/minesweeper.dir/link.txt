@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/minesweeper.dir/minesweeper.cpp.o  -o minesweeper 
